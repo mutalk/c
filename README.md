@@ -2,6 +2,12 @@
 
 [specification](http://github.com/mutalk/spec)
 
+Features:
+
+* Zero non-stack memory allocation
+* Portable (for POSIX) code
+
+
 # Build
 
 ## Requirements
